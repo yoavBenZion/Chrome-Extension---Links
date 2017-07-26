@@ -324,7 +324,7 @@
   width: 75px;
   height: 75px;
   top: 0;
-  opacity: 0.98;
+/*  opacity: 0.10;*/
   box-shadow: 0 0 37.5px #000;
   transform: rotateX(90deg) translateY(37.5px);
   transform-origin: bottom center;
